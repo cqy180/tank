@@ -14,6 +14,7 @@ public class Test extends JFrame {
 
     public static void main(String[] args) {
         new Test();
+        System.out.println("测试SSH连接");
     }
 
     public Test() {
